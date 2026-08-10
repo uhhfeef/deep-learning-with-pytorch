@@ -1,3 +1,4 @@
 .claude/
 .env
 .venv/
+data/volumetric-dicom/
